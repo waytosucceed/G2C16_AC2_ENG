@@ -95,7 +95,7 @@
         "secondImg":"./images/tree.jpg"
       },{
         "questionNo": "Q5.",
-        "question": "Hear the word /Sheep/ and complete the spelling:<br>S_EE_",
+        "question": "Hear the word and complete the spelling:<br>S_EE_",
         "Q_sound":"./sound/sheep.mp3",
         "options": [
           {
