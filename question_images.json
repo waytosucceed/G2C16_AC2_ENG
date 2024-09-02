@@ -1,0 +1,167 @@
+[
+  {
+    "questionNo": "Q12.",
+    "question": "Which word has the \"ee\" sound? ",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/dog.mp3",
+      "./sound/bee.mp3",
+      "./sound/fox.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q13.",
+    "question": " Find the word with the \"ea\" spelling:",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg",
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct":1,
+    "optionsAudio": [
+      "./sound/tree.mp3",
+      "./sound/read.mp3",
+      "./sound/see.mp3",
+      "./sound/free.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word rhymes with \"seat\"? ",
+    
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg",
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/feat.mp3",
+      "./sound/hot.mp3",
+      "./sound/hut.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Pick the odd one out:",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/14.jpg",
+      "./images/15.jpg",
+      "./images/16.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/beak.mp3",
+      "./sound/peak.mp3",
+      "./sound/seek.mp3",
+      "./sound/book.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word has the \"ee\" sound like in \"bee\"?  ",
+    
+    "optionsImages": [
+      "./images/17.jpg",
+      "./images/18.jpg",
+      "./images/19.jpg",
+      "./images/20.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/head.mp3",
+      "./sound/shed.mp3",
+      "./sound/feed.mp3",
+      "./sound/red.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word doesn't follow the \"ea\" rule? ",
+    
+    "optionsImages": [
+      "./images/21.jpg",
+      "./images/22.jpg",
+      "./images/23.jpg",
+      "./images/24.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/great.mp3",
+      "./sound/meat.mp3",
+      "./sound/seat.mp3",
+      "./sound/heat.mp3"
+    ]
+  }
+  ,
+  {
+    "questionNo": "Q18.",
+    "question": "Which word rhymes with \"keep\"? ",
+    
+    "optionsImages": [
+      "./images/25.jpg",
+      "./images/26.jpg",
+      "./images/27.jpg",
+      "./images/28.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/leap.mp3",
+      "./sound/deep.mp3",
+      "./sound/cheap.mp3",
+      ""
+    ]
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word has the same vowel sound as \"feet\"?",
+    
+    "optionsImages": [
+      "./images/29.jpg",
+      "./images/30.jpg",
+      "./images/31.jpg",
+      "./images/32.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/feat.mp3",
+      "./sound/felt.mp3",
+      "./sound/fat.mp3",
+      "./sound/fit.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which word has a different sound?",
+    
+    "optionsImages": [
+      "./images/33.jpg",
+      "./images/34.jpg",
+      "./images/35.jpg",
+      "./images/36.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/bead.mp3",
+      "./sound/head.mp3",
+      "./sound/read.mp3",
+      "./sound/lead.mp3"
+    ]
+  }
+      
+  ]
+  

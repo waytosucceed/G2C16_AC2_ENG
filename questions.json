@@ -1,0 +1,256 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "What sound do you hear in the word \"sheep\"?",
+      "Q_sound":"./sound/sheep.mp3",
+      "options": [
+        {
+          "text": "Short \"e\"",
+          "audio": ""
+        },
+        {
+          "text": "Long \"a\"",
+          "audio": ""
+        },
+        {
+          "text": "Short \"a\"",
+          "audio": ""
+        },
+        {
+          "text": "Long \"e\"",
+          "audio": ""
+        }
+      ],
+      "correct": 3,
+      "secondImg":"./images/sheep.jpg"
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Hear the word and choose the correct spelling:",
+        "Q_sound":"./sound/fear.mp3",
+        "options": [
+          {
+            "text": "Fear",
+            "audio": ""
+          },
+          {
+            "text": "Feer",
+            "audio": ""
+          },
+          {
+            "text": "Faer",
+            "audio": ""
+          }
+        ],
+        "correct": 0,
+        "secondImg":"./images/fear.jpg"
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "Hear the word: Fill in the blank:<br> \"I like to ____ books.\"",
+        "Q_sound":"./sound/read.mp3",
+        "options": [
+          {
+            "text": "Reed",
+            "audio": ""
+          },
+          {
+            "text": "Read",
+            "audio": ""
+          },
+          {
+            "text": "Red",
+            "audio": ""
+          },
+          {
+            "text": "Rid",
+            "audio": ""
+          }
+        ],
+        "correct": 2,
+        "secondImg":"./images/read.jpg"
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "Hear the word: Which word has the same sound?",
+        "Q_sound":"./sound/tree.mp3",
+        "options": [
+          {
+            "text": "Free",
+            "audio": ""
+          },
+          {
+            "text": "Fry",
+            "audio": ""
+          },{
+            "text": "Far",
+            "audio": ""
+          },
+          {
+            "text": "For",
+            "audio": ""
+          }
+        ],
+        "correct": 0,
+        "secondImg":"./images/tree.jpg"
+      },{
+        "questionNo": "Q5.",
+        "question": "Hear the word /Sheep/ and complete the spelling:<br>S_EE_",
+        "Q_sound":"./sound/sheep.mp3",
+        "options": [
+          {
+            "text": "PH",
+            "audio": ""
+          },
+          {
+            "text": "HP",
+            "audio": ""
+          },
+          {
+            "text": "CH",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/sheep.jpg"
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "Hear the word and choose the word which rhymes with this word:",
+        "Q_sound":"./sound/teach.mp3",
+        "options": [
+          {
+            "text": "Touch",
+            "audio": ""
+          },
+          {
+            "text": "Beach",
+            "audio": ""
+          },
+          {
+            "text": "Bench",
+            "audio": ""
+          },
+          {
+            "text": "Bunch",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/teach.jpg"
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "What do you do with food?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Eat",
+            "audio": ""
+          },
+          {
+            "text": "Ear",
+            "audio": ""
+          },
+          {
+            "text": "Eye",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "What sound does \"ea\" make in \"beach\"?",
+        "Q_sound":"./sound/beach.mp3",
+        "options": [
+          {
+            "text": "Short \"e\"",
+            "audio": ""
+          },
+          {
+            "text": "Long \"e\"",
+            "audio": ""
+          },
+          {
+            "text": "Short \"a\"",
+            "audio": ""
+          },
+          {
+            "text": "Long \"a\"",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/beach.jpg"
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "What's the rule for \"ee\" words? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Always short \"e\"",
+            "audio": ""
+          },
+          {
+            "text": "Always long \"e\"",
+            "audio": ""
+          },
+          {
+            "text": "Sometimes long, sometimes short",
+            "audio": ""
+          },
+          {
+            "text": "No rule",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "What's the \"ea\" sound:",
+        "Q_sound":"./sound/break.mp3",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/ee.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/a.mp3"
+          }
+          
+        ],
+        "correct": 1,
+        "secondImg":"./images/break.jpg"
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "How do you pronounce like \"tree\"? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/tray.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/try.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/tree.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/treh.mp3"
+          }
+          
+        ],
+        "correct": 2
+      }
+  ]
+  
